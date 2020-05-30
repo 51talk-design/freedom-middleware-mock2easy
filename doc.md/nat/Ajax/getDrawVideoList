@@ -1,0 +1,9 @@
+## /nat/Ajax/getDrawVideoList
+#### 接口类型
+	GET
+#### 接口请求地址
+	/nat/Ajax/getDrawVideoList
+#### 返回接口
+```js
+
+```
