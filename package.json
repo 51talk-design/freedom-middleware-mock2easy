@@ -56,7 +56,7 @@
     "angular-ui-bootstrap": "^0.13.4",
     "angular-ui-router": "^0.2.15",
     "bootstrap": "^3.3.5",
-    "jquery": "^2.1.4",
+    "jquery": "^3.5.1",
     "json2": "^0.4.0"
   },
   "readmeFilename": "README.md",
